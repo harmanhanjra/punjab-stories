@@ -1,0 +1,13 @@
+{
+  "name": "punjab-stories",
+  "version": "0.1.0",
+  "description": "Top-down GTA-style open-world game set in a procedurally generated Punjab city. Vanilla JS + Canvas, zero dependencies.",
+  "type": "module",
+  "scripts": {
+"test": "node --test \"tests/**/*.test.js\"",
+       "start": "node server.js"
+  },
+  "keywords": ["game", "topdown", "open-world", "canvas", "punjab"],
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
